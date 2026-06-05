@@ -8,7 +8,6 @@ Objectives
 
 - To identify the most suitable engine cycle for a LOX–LCH4 upper-stage engine with a nominal thrust of 50 kN.
 - To analyze the capability of throttling between 50% and 110%, constrained by a maximum nozzle exit diameter of 1 m.
-- To evaluate engine performance parameters and design trade-offs for upper-stage applications.
 
 Tools and Software Used
 
